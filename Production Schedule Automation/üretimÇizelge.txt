@@ -1,0 +1,1 @@
+{'Üretim Numarasý:': 6412, 'Tedarikçi Firmanýn Adý:': 'asad', 'Talep Miktarý:': 461635, 'Denetimci Firma:': 'sdfsd', 'Denetim Türü:': 'sdfdsf', 'Denetim Tarihi:': '25-2595-82322', 'Denetim Yeri:': 'sdfsd'}
